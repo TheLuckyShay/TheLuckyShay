@@ -13,6 +13,7 @@ I'm a 4th year Double Degree Business and CS student who is in love with buildin
 <p align="left"> <a href="https://www.github.com/TheLuckyShay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lakshyakawatra/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
+[![@theluckyshay's Holopin board](https://holopin.io/api/user/board?user=theluckyshay)](https://holopin.io/@theluckyshay)
 
 <b>My GitHub Stats</b>
 
